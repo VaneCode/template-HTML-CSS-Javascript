@@ -1,21 +1,50 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Portfolio
+# Project name
 
-> This is a project to setup a portfolio, that contains the headline
-section, works section and about me section. You can find this project published at:
-
-https://vanecode.github.io/portafolio-mobile/
+> Project description
 
 ## Built With
 
-- HTML/CSS
+- HTML5
+- CSS/SASS
 - Visual Studio
 - JavaScript
 
-## Author
+## Live Demo
+
+[Live Demo Link](https://vanecode.github.io/art-gallery/)
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+- A modern web browser like Chrome, Safari, Firefox, etc.
+- JavaScript enabled.
+
+### Setup
+
+- Open the [Repository Link](https://github.com/VaneCode/art-gallery) of this project in GitHub.
+
+### Install
+
+- Clone the repository on your local machine, using this command:
+
+git clone https://github.com/VaneCode/art-gallery.git
+
+
+## Authors
 
 👤 **Vanessa Bonito**
+
+- GitHub: [@githubhandle](https://github.com/VaneCode)
+- Twitter: [@twitterhandle](https://twitter.com/BonitoNarvaez)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/vanessa-bonito-narv%C3%A1ez-6681941b5/)
+
+
+**Author name**
 
 - GitHub: [@githubhandle](https://github.com/VaneCode)
 - Twitter: [@twitterhandle](https://twitter.com/BonitoNarvaez)
